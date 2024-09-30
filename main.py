@@ -1,6 +1,6 @@
 def hello():
     print("hi")
-d bye():
+def bye():
 prit("bye");
 
 
